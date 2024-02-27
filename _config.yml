@@ -1,0 +1,9 @@
+plugins: 
+- jekyll-toc
+- jekyll-seo-tag
+- jekyll-archives
+- jekyll-sitemap
+- jekyll-compose
+- jekyll-youtube
+- jekyll-email-protect
+- jekyll-paginate

@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem 'jekyll-toc'
+gem 'jekyll'
+gem 'jekyll-seo-tag'
+gem 'jekyll-attendease'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-compose'
+gem 'jekyll-youtube'
+gem 'jekyll-email-protect'
+gem 'jekyll-paginate'
